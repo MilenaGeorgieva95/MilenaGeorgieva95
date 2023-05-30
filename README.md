@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning Software engineering @ SoftUni.<br>I completed Udemy Web Developer Bootcamp 2023.
 - 🔭 I’m currently working on numerous projects exploring JS, HTML, CSS, React and MongoDB.
 - 👯 I’m looking to collaborate on juniour web developer projects.
-- ⚡ Fun fact: I am a British sitizen and have excellent proficiency in English language.
+- ⚡ Fun fact: I am a British citizen and I am highly proficient in spoken and written English.
 
-#### I am confident in: <br>
+#### I am conversant in: <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
