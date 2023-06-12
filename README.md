@@ -1,13 +1,13 @@
 ## Hi there👋 I am Milena Georgieva 
 <b> Learning Front-end Software Developer with JavaScript.<br>
 ### Connect with me: <br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/) <br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/) [![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/milenageorgieva4/)<br>
 
 - 🌱 I’m currently learning Software Engineering with JavaScript @ SoftUni.<br>I completed Udemy Web Developer Bootcamp 2023.
 - 👯 I’m looking to level-up my skills and collaborate on Front-end Web developer projects.
-- ⚡ My hobby is Fine art. Check me out on ![Behance](https://www.behance.net/milenageorgieva4)
+- ⚡ My hobby is Fine art.
 
-### Tech I love: <br>
+### Tech I :heart: : <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
