@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Software Engineering with JavaScript @ SoftUni.<br>I completed Udemy Web Developer Bootcamp 2023.
 - 👯 I’m looking to level-up my skills and collaborate on Front-end Web developer projects.
-- ⚡ My hobby is Fine art.
+- ⚡ Fun fact: My hobbies are reading and gaming.
 
 ### Tech I :heart: : <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
