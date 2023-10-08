@@ -1,7 +1,7 @@
 ## Hi there👋 I am Milena Georgieva 
-<b> Front-End JavaScript Web Developer. <br>
+<b> Front-End JavaScript Web Developer <br>
 
-### Give me a glance at : [![](https://img.shields.io/badge/GitHub_Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/MilenaGeorgieva95) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/)
+### Give me a glance at : [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/)
 
 - 👯 I’m looking to utilize and level-up my skills as a junior Front-End Web Developer.
 - 🌱 I’m currently learning Software Engineering with JavaScript @ SoftUni.<br>I completed Udemy Web Developer Bootcamp 2023.
@@ -35,7 +35,7 @@
 Behance[![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/milenageorgieva4/)
 Github[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](milena...)
 **MilenaGeorgieva95/MilenaGeorgieva95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/MilenaGeorgieva95)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
