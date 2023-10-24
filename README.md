@@ -1,11 +1,12 @@
 ## Hi there👋 I am Milena Georgieva 
 <b> Front-End JavaScript Web Developer <br>
 
-### Give me a glance at : [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/)
+### Connect with me : [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/)
 
 - 👯 I’m looking to utilize and level-up my skills as a junior Front-End Web Developer.
 - 🌱 I’m currently learning Software Engineering with JavaScript @ SoftUni.<br>I completed Udemy Web Developer Bootcamp 2023.
-- ⚡ Fun fact: My hobbies are reading and self-development.
+- ⚡ I have full professional proficiency in English language, enriched while studying, working and living in the UK for the past 14 years. Also, I have dual nationality (Bulgarian and British).
+- 😄 My hobbies are reading and self-development.
 
 ## Tech I :heart: :
 - #### Skills :
