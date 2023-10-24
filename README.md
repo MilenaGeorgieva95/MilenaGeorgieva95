@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to utilize and level-up my skills as a junior Front-End Web Developer.
 - 🌱 I’m currently learning Software Engineering with JavaScript @ SoftUni.<br>I completed Udemy Web Developer Bootcamp 2023.
-- ⚡ Fun fact: My hobbies are reading and gaming.
+- ⚡ Fun fact: My hobbies are reading and self-development.
 
 ## Tech I :heart: :
 - #### Skills :
