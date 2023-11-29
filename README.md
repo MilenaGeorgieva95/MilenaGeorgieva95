@@ -23,8 +23,12 @@
 - #### Frameworks :
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white) <br>
+
 ![EJS](https://img.shields.io/badge/EJS-6DA55F?style=for-the-badge)
+![lit-html](https://img.shields.io/badge/lit--html-324FFF?style=for-the-badge&logo=lit&logoColor=white)
+![page.js](https://img.shields.io/badge/page.js-324FFF?style=for-the-badge)
+
 - #### Unit Testing :
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
@@ -40,7 +44,7 @@
 
 <!--
 Behance[![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/milenageorgieva4/)
-Github[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](milena...)
+Github[![](https://img.shields.io/badge/GitHub-#222222?style=for-the-badge&logo=github&logoColor=white)](milena...)
 **MilenaGeorgieva95/MilenaGeorgieva95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/MilenaGeorgieva95)
 Here are some ideas to get you started:
