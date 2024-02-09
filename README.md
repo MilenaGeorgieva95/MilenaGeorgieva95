@@ -1,47 +1,48 @@
 ## Hi there👋 I am Milena Georgieva 
 <b> Front-End JavaScript Web Developer <br>
 
-### Connect with me : [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/)
+### Connect with me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/)
 
 - 👯 I’m looking to utilize and level-up my skills as a junior Front-End Web Developer.
 - 🌱 I’m currently learning Software Engineering with JavaScript @ SoftUni.<br>I completed Udemy Web Developer Bootcamp 2023.
 - ⚡ I have full professional proficiency in English language, enriched while studying, working and living in the UK for the past 14 years. Also, I have dual nationality (Bulgarian and British).
 - 😄 My hobbies are reading and self-development.
 
-## Tech I :heart: :
-- #### Skills :
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Skills
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue)
+![CSS](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=blue)
+![HTML](	https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=red) <br>
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-323330?style=for-the-badge)
-- #### Database :
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![SPA Applications](https://img.shields.io/badge/SPA_Applications-323330?style=for-the-badge)
+![MPA Applications](https://img.shields.io/badge/MPA_Applications-323330?style=for-the-badge)
 
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-- #### Frameworks :
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white) <br>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=green)
+![Mongoose](https://img.shields.io/badge/Mongoose-323330?style=for-the-badge&logo=mongoose&logoColor=red)
 
-![EJS](https://img.shields.io/badge/EJS-6DA55F?style=for-the-badge)
-![lit-html](https://img.shields.io/badge/lit--html-324FFF?style=for-the-badge&logo=lit&logoColor=white)
-![page.js](https://img.shields.io/badge/page.js-324FFF?style=for-the-badge)
+[![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Frameworks and Libraries
+![Angular](https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=orange)
+![React](https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/express-323330?style=for-the-badge&logo=express&logoColor=white) <br>
+![EJS](https://img.shields.io/badge/EJS-323330?style=for-the-badge)
+![lit-html](https://img.shields.io/badge/lit--html-323330?style=for-the-badge&logo=lit&logoColor=blue)
+![page.js](https://img.shields.io/badge/page.js-323330?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=purple)
 
-- #### Unit Testing :
+### Unit Testing
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 
-- #### Terminal :
-![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Terminal
+![NodeJS](https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)
+![Git Bash](https://img.shields.io/badge/Git_Bash-323330?style=for-the-badge&logo=git&logoColor=orange)
 
-- #### Design :
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+### Design
+![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=orange)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-323330?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=milenageorgieva95&row=1)](https://github.com/ryo-ma/github-profile-trophy) <br>
 
