@@ -13,6 +13,7 @@
 
 ### &nbsp; Skills
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)
 ![TypeScript](https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue)
 ![CSS](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=blue)
 ![HTML](	https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=red) <br>
@@ -23,6 +24,8 @@
 ### &nbsp; Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Mongoose](https://img.shields.io/badge/Mongoose-323330?style=for-the-badge&logo=mongoose&logoColor=red)
+![Atlas](https://img.shields.io/badge/Atlas-323330?style=for-the-badge&logo=mongodb&logoColor=green)
+![Compass](https://img.shields.io/badge/Compass-323330?style=for-the-badge&logo=mongodb&logoColor=green)
 
 [![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,7 +43,7 @@
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 
 ### &nbsp; Terminal
-![NodeJS](https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)
+
 ![Git Bash](https://img.shields.io/badge/Git_Bash-323330?style=for-the-badge&logo=git&logoColor=orange)
 
 ### &nbsp; Design
