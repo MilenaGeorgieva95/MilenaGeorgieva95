@@ -1,5 +1,5 @@
 # <p align="center"> Hi there👋 I am Milena Georgieva </p>
-###  <p align="center"> JavaScript Web Developer </p>
+###  <p align="center"> Junior Software Developer </p>
 
 
 
@@ -9,7 +9,7 @@
 
  <p align="center"> Let's work together!  Reach me on</p>
 
-#### <p align="center"> &nbsp; [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/) </p>
+#### <p align="center"> &nbsp; [![Milena's React Portfolio](https://img.shields.io/badge/Milena's_React_Portfolio-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=b3f5e7)](https://milena-s-react-portfolio.web.app) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/) </p>
 
 ### &nbsp; Skills
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,7 +30,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ### &nbsp; Frameworks and Libraries
-![Angular](https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=orange)
+
 ![React](https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express](https://img.shields.io/badge/express-323330?style=for-the-badge&logo=express&logoColor=white) <br>
 ![EJS](https://img.shields.io/badge/EJS-323330?style=for-the-badge)
@@ -60,6 +60,7 @@ Github[![](https://img.shields.io/badge/GitHub-#222222?style=for-the-badge&logo=
 **MilenaGeorgieva95/MilenaGeorgieva95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/MilenaGeorgieva95)
 Here are some ideas to get you started:
+![Angular](https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=orange)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Software engineering @ SoftUni.
