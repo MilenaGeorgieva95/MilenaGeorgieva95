@@ -11,15 +11,27 @@
 
 #### <p align="center"> &nbsp; [![Milena's React Portfolio](https://img.shields.io/badge/Milena's_React_Portfolio-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=b3f5e7)](https://milena-s-react-portfolio.web.app) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/) </p>
 
-### &nbsp; Skills
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)
+### &nbsp; Frameworks and Libraries
+
+![Angular](https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=orange)
 ![TypeScript](https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue)
-![CSS](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=blue)
-![HTML](	https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=red) <br>
+![React](https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
+![Angular Material](https://img.shields.io/badge/Angular%20Material-323330?style=for-the-badge&logo=angular&logoColor=orange)
+![Tailwind](https://img.shields.io/badge/Tailwind-323330?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=purple)
+
+
+### &nbsp; Skills
+
+![HTML](	https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=red)
+![CSS](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css&logoColor=blue)
+![NodeJS](https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)
+![Express](https://img.shields.io/badge/express-323330?style=for-the-badge&logo=express&logoColor=white) <br>
+<br>
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-323330?style=for-the-badge)
 ![SPA Applications](https://img.shields.io/badge/SPA_Applications-323330?style=for-the-badge)
-![MPA Applications](https://img.shields.io/badge/MPA_Applications-323330?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-323330?style=for-the-badge)
 
 ### &nbsp; Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=green)
@@ -29,14 +41,6 @@
 
 [![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-### &nbsp; Frameworks and Libraries
-
-![React](https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express](https://img.shields.io/badge/express-323330?style=for-the-badge&logo=express&logoColor=white) <br>
-![EJS](https://img.shields.io/badge/EJS-323330?style=for-the-badge)
-![lit-html](https://img.shields.io/badge/lit--html-323330?style=for-the-badge&logo=lit&logoColor=blue)
-![page.js](https://img.shields.io/badge/page.js-323330?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=purple)
 
 ### &nbsp; Unit Testing
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
@@ -71,9 +75,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 -->
 
