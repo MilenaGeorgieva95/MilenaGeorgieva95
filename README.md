@@ -1,15 +1,9 @@
 # <p align="center"> Hi there👋 I am Milena Georgieva </p>
-###  <p align="center"> Junior Software Developer </p>
+###  <p align="center"> A passionate Front-End Web Developer </p>
 
-
-
--  I’m looking to contribute to interesting projects.
--  I have full professional proficiency in English language. Also, I have dual nationality (British and Bulgarian).
--  My hobbies are reading and self-development.
-
- <p align="center"> Let's work together!  Reach me on</p>
-
-#### <p align="center"> &nbsp; [![Milena's React Portfolio](https://img.shields.io/badge/Milena's_React_Portfolio-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=b3f5e7)](https://milena-s-react-portfolio.web.app) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-georgieva95/) </p>
+ - All of my projects are available at https://milena-s-react-portfolio.web.app <br>
+ - How to reach me mgeorgieva95@yahoo.com 
+ or https://www.linkedin.com/in/milena-georgieva95/
 
 ### &nbsp; Frameworks and Libraries
 
