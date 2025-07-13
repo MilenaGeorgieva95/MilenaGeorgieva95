@@ -50,7 +50,7 @@
 ![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=orange)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-323330?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=milenageorgieva95&row=1)](https://github.com/ryo-ma/github-profile-trophy) <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=milenageorgieva95&row=1&title=-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy) <br>
 
 
 
