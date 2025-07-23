@@ -43,11 +43,6 @@
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 
-### &nbsp; Terminal
-
-![Git Bash](https://img.shields.io/badge/Git_Bash-323330?style=for-the-badge&logo=git&logoColor=orange)
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=milenageorgieva95&row=1&title=-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy) <br>
 
